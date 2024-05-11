@@ -1,0 +1,21 @@
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2px;
+  width: 100%;
+}
+.pageTitle{
+  display: flex;
+  font-size: 2rem;
+  justify-content: center;
+  text-transform: capitalize;
+  padding-bottom: 6px;
+  margin-top: 1px;
+}
+.pagination{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  color: #fff;
+}
